@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="個人主頁"
+        android:icon="@drawable/homeicon"
+        />
+    <item
+        android:id="@+id/apply"
+        android:title="申請餐券"
+        android:icon="@drawable/applyicon"
+        />
+    <item
+        android:id="@+id/ticket"
+        android:title="我的餐券"
+        android:icon="@drawable/ticketicon"
+        />
+    <item
+        android:id="@+id/history"
+        android:title="消費紀錄"
+        android:icon="@drawable/historyicon"
+        />
+    <item
+        android:id="@+id/personal"
+        android:title="個人資訊"
+        android:icon="@drawable/personalicon"/>
+
+</menu>
